@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+  <title>큐리어스</title>
+  <mata charset="utf-8">
+</head>
+<body>
+  <h1>큐리어스</h1>
+  <p>
+    안녕하십니까. 저희는 큐리어스 라고하는
+    팀 입니다. <strong>감사합니다.</strong>
+  </p>
+  <ul>
+     <li><a href="큐리어스">MAIN</a></li>
+     <li><a href="일상">일상</a></li>
+     <li><a href="대회">대회</a></li>
+  </ul>
+</body>

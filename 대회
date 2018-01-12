@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+  <title>큐리어스</title>
+  <mata charset="utf-8">
+</head>
+<body>
+  <h1>일상</h1>
+  <p>
+    이곳은 대회 페이지 입니다.
+    <strong>감사합니다.</strong>
+  </p>
+  <ul>
+    <li><a href="큐리어스">MAIN</a></li>
+    <li><a href="일상">일상</a></li>
+    <li><a href="대회">대회</a></li>
+  </ul>
+</body>
